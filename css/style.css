@@ -1,0 +1,27 @@
+* { margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+    text-size-adjust:none ;
+    -webkit-text-size-adjust:none ;
+    min-height: fit-content;
+}
+
+body {background-color: hsl(212, 45%, 89%);
+    display: grid;
+    place-items: center;
+    margin-top: 4cm;
+}
+
+.container {
+    background-color:hsl(0, 0%, 100%);
+    
+    width: 350px;
+    height: 520px;  
+    text-align: center;
+    padding: 20px;
+    border-radius:10px;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
