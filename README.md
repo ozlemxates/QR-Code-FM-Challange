@@ -10,7 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Here you can see the screenshot of my solution
 
-![ss](C:\Users\bende\OneDrive\Desktop\qr-code-component-main\images\ss.png)
+![ss](C:file:///C:/Users/bende/OneDrive/Desktop/qr-code-component-main/images/ss.png)
 
 ### Built with
 
