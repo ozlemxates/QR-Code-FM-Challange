@@ -20,4 +20,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-While coding these project, even tough I tried to shorten my lines, I still used some unnecessary lines that might be shorter in the future.
+While coding these project, even though I tried to shorten my lines, I still used some unnecessary lines that might be shorter in the future.
