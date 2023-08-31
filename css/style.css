@@ -23,11 +23,11 @@ body {
     text-align: center;
     gap: 1.5em;
     padding: 20px;
-    border-radius:10px;
+    border-radius:23px;
 }
 
 img {
-    border-radius:10px;
+    border-radius:15px;
 }
 
 h1 {
