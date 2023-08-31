@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-Solution URL -> [Click here](https://www.frontendmentor.io/solutions/creating-qr-code-display-screen-by-using-basic-html-and-css-ZYQvcRFdud)
-Live site URL -> [Click here](https://ozlemxates.github.io/QR-Code-FM-Challange/)
+- Solution URL -> [Click here](https://www.frontendmentor.io/solutions/creating-qr-code-display-screen-by-using-basic-html-and-css-ZYQvcRFdud)
+- Live site URL -> [Click here](https://ozlemxates.github.io/QR-Code-FM-Challange/)
 
 ### Author
 
